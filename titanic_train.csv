@@ -1,3 +1,0 @@
-,survived,pclass,name,sex,age,sibsp,parch,ticket,fare,embarked,sex_f,embarked_f
-0,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7,S,0,0
-1,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71,C,1,1
