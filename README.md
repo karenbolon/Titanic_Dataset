@@ -16,7 +16,7 @@ A prediction model can help companies target specific clientele to help with cos
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png =400x175)
 
 * Project consisted of all phases of Machine Learning work-flow: 
 	- train-test-splitting of data, 
