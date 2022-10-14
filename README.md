@@ -29,7 +29,10 @@ A prediction model can help companies target specific clientele to help with cos
 	- evaluation of models with cross-validation.
  
 A correlation matrix: 
- 	![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_correlations.png)
+![]()
+<p align="center">
+<img src="./images/Titanic_correlations.png" width="500" height="500">
+</p>
 
 With the above matrix, it is easy to see the features with the strongest positive correlations (orange) and the features with the strongest negative correlations (black).
 
